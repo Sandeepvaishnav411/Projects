@@ -1,0 +1,131 @@
+*{
+    margin-left: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    max-width: 1440px;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-container div img{
+    margin-top: 28%;
+    width: 130px;
+}
+.list{
+    list-style: none;
+    display:flex;
+    margin-top: 8%;
+}
+.list-item{
+    margin-right: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+.list-item:first-child{
+    font-weight: 1000;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.button-group{
+    display: flex;
+    margin-top: 3%;
+    }
+.search-icon{
+    width: 40px;
+    height: 30px;
+}
+
+.nav-button{
+    padding: 8px 40px;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.hero-container{
+    display: flex;
+    margin-top:8.5%;
+}
+
+.globe{
+    position:absolute;
+    top: 140px;
+    left: 51%;
+}
+.star{
+    position: absolute;
+    right: 80px;
+    top: 200px ;
+    
+    }
+.star1{
+    position: absolute;
+    left: 48%;
+    bottom: -40%;
+}
+
+.hero-container-right{
+    padding-top:5%;
+    margin-left: 10%;
+    margin-top: 30px;
+    }
+.hero-heading{
+    font-size: 61px;
+    padding-left: 8%;
+}
+.hero-description{
+ 
+    margin: 10% 10%;
+    font-size: 14px;
+}
+.button-email{
+    margin-left: 30%;
+    padding: 8px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: #808080;
+}
+.button-join{
+    padding: 8px;
+    border: none;
+    border-radius: 15px;
+    background-color: #0D0D0D;
+    color: #ffffff;
+    font-size: 20px ;
+
+}
+.contact-heading{
+    margin-left: 56%;
+    margin-top: 20%;
+    font-size: 20px;
+    color: #808080;
+}
+.square{
+    position: absolute;
+    top: 390px;
+    left: 80px;
+    z-index:-1;
+    
+}
+.icons{
+    margin-left: 45%;
+    margin-top: 3%;
+    }
+.icons span img{
+    margin-right: 10px;
+}
+.globe+div img{
+  
+    width: 400px;
+    height: 500px;
+
+    margin-left: 8%;
+    margin-top: 10%;
+}
+
+    
+   
+
+    
