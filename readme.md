@@ -13,7 +13,7 @@
 ## [Click here](https://github.com/Sandeepvaishnav411/Hosting-site-Landing-page)
 
 ## Project 9
-##[Click here](https://github.com/Sandeepvaishnav411/Gaming-landing-page)
+## [Click here](https://github.com/Sandeepvaishnav411/Gaming-landing-page)
 
 ## Project 10
 ## [Click here](https://github.com/Sandeepvaishnav411/Real-estate-landing-page)
